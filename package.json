@@ -1,0 +1,28 @@
+{
+  "name": "arvis-simple-menu-ticket",
+  "version": "1.0.0",
+  "description": "ArviS#0011 - Simple Menu Ticket Sistemi",
+  "main": "arvis.js",
+  "scripts": {
+    "arvis:dev": "nodemon arvis.js"
+    },
+
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ArviSlayer/Discord-Simple-Menu-Ticket.git"
+    },
+
+    "author": "ArviS#0011",
+    "license": "MIT",
+    
+  "bugs": {
+      "url": "https://github.com/ArviSlayer/Discord-Simple-Menu-Ticket/issues"
+    },
+
+    "homepage": "https://github.com/ArviSlayer/Discord-Simple-Menu-Ticket#readme",
+    "dependencies": {
+    "discord.js": "^13.3.1",
+    "enmap": "^5.8.7",
+    "nodemon": "^2.0.20"
+  }
+}
